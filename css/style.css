@@ -1,0 +1,22 @@
+.lazy-loaded{
+   height: 150px;
+    width: 150px;
+    margin-top: auto;
+}
+div{
+    background: aqua;
+    width: 60%;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+input{
+    border-radius: 10px;
+    padding: 10px;
+}
+form{
+    margin-top: 50px;
+}
+a:hover{
+    color: red;
+}

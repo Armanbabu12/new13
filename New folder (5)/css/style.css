@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+}
+div{
+    background: gray;
+    width: 50%;
+    margin: auto;
+}
+form{
+    margin-top: 100px;
+}
+input{
+    border-radius: 10px;
+    padding: 10px;
+    color: blueviolet;
+}
